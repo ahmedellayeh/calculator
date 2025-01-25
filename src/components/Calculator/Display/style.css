@@ -1,0 +1,7 @@
+.display {
+    width: calc(100% - 20px);
+    height: 55px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
